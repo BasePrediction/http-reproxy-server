@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"fmt"
+  "fmt"
   "net/http"
-	"net/http/httputil"
-	"net/url"
+  "net/http/httputil"
+  "net/url"
 
 	"github.com/gin-gonic/gin"
 )
